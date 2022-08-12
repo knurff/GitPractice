@@ -6,4 +6,6 @@ import lombok.Data;
 public class User {
     private String name;
     private int age;
+    private String country;
+    private String city;
 }
